@@ -8,6 +8,7 @@ Gem::Specification.new do |s|
   s.homepage    = "https://www.zoho.com/zeptomail"
   s.license       = "MIT"
 
+  s.metadata['source_code_uri'] = 'https://github.com/zohomail/zoho_zeptomail-rails'
   s.add_dependency 'zoho_zeptomail-ruby'
   s.add_development_dependency 'rails'
   s.add_development_dependency 'minitest-rails'
