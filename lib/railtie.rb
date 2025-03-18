@@ -1,6 +1,6 @@
 require 'rails/railtie'
 require 'delivery_method'
-require 'zohozeptomail_ruby'
+require 'zoho_zeptomail-ruby'
 
 module ZohozeptomailRails
   class Railtie < ::Rails::Railtie

@@ -6,7 +6,7 @@ require 'bundler'
 require 'bundler/setup'
 Bundler.setup(:development)
 require 'nokogiri'
-require 'zohozeptomail_rails'
+require 'zoho_zeptomail-rails'
 require 'rails'
 require 'action_mailer'
 
